@@ -1,4 +1,8 @@
 body {
     color: white;
     background-color: black;
+    font-family: system-ui;
+    margin-top: 5%;
+    margin-left: 15%;
+    margin-right: 15%;
  }
